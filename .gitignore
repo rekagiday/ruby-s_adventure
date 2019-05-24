@@ -1,2 +1,8 @@
-*.class
-Temp/*
+UpgradeLog*.htm
+*.suo
+.vs/
+Library/
+Temp/
+*.userprefs
+obj/
+.idea
