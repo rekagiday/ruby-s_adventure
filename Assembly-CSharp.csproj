@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\HealthCollectible.cs" />
     <Compile Include="Assets\Scripts\RubyController.cs" />
+    <Compile Include="Assets\Scripts\UIHealthBar.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/Ruby's Adventure/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
